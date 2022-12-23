@@ -1,0 +1,11 @@
+C:\Curso C#\Ola Mundo\bin\Debug\Ola Mundo.exe.config
+C:\Curso C#\Ola Mundo\bin\Debug\Ola Mundo.exe
+C:\Curso C#\Ola Mundo\bin\Debug\Ola Mundo.pdb
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.csproj.AssemblyReference.cache
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.csproj.SuggestedBindingRedirects.cache
+C:\Curso C#\Ola Mundo\obj\Debug\Ola_Mundo.Form1.resources
+C:\Curso C#\Ola Mundo\obj\Debug\Ola_Mundo.Properties.Resources.resources
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.csproj.GenerateResource.cache
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.exe
+C:\Curso C#\Ola Mundo\obj\Debug\Ola Mundo.pdb
